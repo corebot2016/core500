@@ -211,6 +211,12 @@ function create_config( )
     "onservice",
     "inrealm",
     "ingroup",
+    "Lock_Chat",
+    "Lock_English",
+    "Lock_Join",
+    "Lock_Share",
+    "Lock_Video"
+    "Plugins",
     "inpm",
     "banhammer",
     "stats",
